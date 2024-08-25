@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Sama Gasimzada
+- 👋 Hi, I’m Sema Gasimzade
 - 👀 I’m interested in Data Analytics.
 - 🌱 I’m currently mastering new tools in Data Analytics.
 - 💞️ I’m looking to collaborate on projects that involve data analysis, data visualization, or any aspect of the data science lifecycle. 
